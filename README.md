@@ -2,7 +2,6 @@
 
 > **A structured home for the most widely used DSA problem sheets**
 
--->neetcode difficulty reset
 ## Objective
 
 The objective of this repository is to provide popular DSA sheets into a single, well-structured directory.  
